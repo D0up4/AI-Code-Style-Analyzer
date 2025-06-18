@@ -1,4 +1,4 @@
-# 🧠 AI Code Style Analyzer (Heuristic Detector)
+# 🧠 AI Code Style Analyzer (Experimental)
 
 **Author:** D0up4       
 **Last Updated:** 06/2025  
